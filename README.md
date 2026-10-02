@@ -8,4 +8,9 @@ Repositório Das Atividades Disciplina De Inteligência Artificial
 
   09/09/2026: [Atividade Iris](https://www.kaggle.com/code/adrianguerardi/atividade-iris-completa)
 
-  
+  01/10/2026: https://www.kaggle.com/code/adrianguerardi/iris-boosting
+              https://www.kaggle.com/code/adrianguerardi/iris-floresta-aleat-ria
+              https://www.kaggle.com/code/adrianguerardi/iris-rvore-de-decis-o
+              https://www.kaggle.com/code/adrianguerardi/iris-svm
+
+              
