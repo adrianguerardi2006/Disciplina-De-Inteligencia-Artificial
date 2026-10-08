@@ -13,4 +13,6 @@ Repositório Das Atividades Disciplina De Inteligência Artificial
               https://www.kaggle.com/code/adrianguerardi/iris-rvore-de-decis-o
               https://www.kaggle.com/code/adrianguerardi/iris-svm
 
-08/10/2026: [Atividade FishMorph](https://colab.research.google.com/drive/1qEEDZHanR7rZI_nWe9v8kO6eW1NvEVLe?usp=sharing)
+  01/10/2026: [Atividade SVM para Regressão](https://www.kaggle.com/code/adrianguerardi/housing-svm-para-regress-o?classId=8fe99d3e-2a82-498a-9efb-de105a254ded&assignmentId=a635c897-e01f-40df-890c-818138c71cff&submissionId=da275ba8-c555-6eab-93f6-14154232f1c3)
+
+  08/10/2026: [Atividade FishMorph](https://colab.research.google.com/drive/1qEEDZHanR7rZI_nWe9v8kO6eW1NvEVLe?usp=sharing)
